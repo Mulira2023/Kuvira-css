@@ -1,0 +1,29 @@
+*{
+    margin:auto;
+    text-align: center;
+}
+h3{
+color:#b9b904;
+    font-size: 1.5rem;
+    text-align: center;
+
+}
+h1{
+    text-align: center;
+    color: #b90404;
+    font-size: 2.5rem;
+}
+#profile-image {
+    width:150px;
+    height:150px;
+    border-radius: 50%;
+}
+.swim {
+    border: 16px solid #f3f3f3; /* Light grey */
+}
+.read {
+    border: 16px solid #f3f3f3; /* Light grey */
+}
+.chess {
+    border: 16px solid #f3f3f3; /* Light grey */
+}
